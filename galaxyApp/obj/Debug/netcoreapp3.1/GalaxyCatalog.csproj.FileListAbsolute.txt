@@ -1,0 +1,13 @@
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.exe
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.deps.json
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.runtimeconfig.json
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.runtimeconfig.dev.json
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.dll
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\bin\Debug\netcoreapp3.1\GalaxyCatalog.pdb
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.csproj.AssemblyReference.cache
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.AssemblyInfoInputs.cache
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.AssemblyInfo.cs
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.dll
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.pdb
+C:\Users\Victoria Valkova\Downloads\Galaxy\galaxyApp\obj\Debug\netcoreapp3.1\GalaxyCatalog.genruntimeconfig.cache
